@@ -4,7 +4,6 @@
 
 - University:
 - Matching with TuM: 🌟🌟🌟
-- Difficulty Level:
 - Estimated Study Hours:
 
 <!-- Write a brief introduction about the material, such as:
